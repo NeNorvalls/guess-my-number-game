@@ -2,6 +2,8 @@
 
 Creating a simple game with simple HTML, CSS and Javascript.
 
+The project is deployed and can be accessed [here](https://guess-my-number-game-2024.netlify.app/).
+
 Summary of how the app works:
 
 Initialization: When the page loads, a random number between 1 and 20 is generated and stored as the secretNumber. The initial score is set to 20, and the high score is set to 0.
